@@ -1,7 +1,7 @@
 # liuyifei
 ## 今天学习了MarkDown
 * MarkDown是一种超文本语言，今天我第一次它
-`Hello MarkDown!`
+* `Hello MarkDown!`
 * 接下来我还会学习：
 1. git的基础命令
 2. Hexo框架
